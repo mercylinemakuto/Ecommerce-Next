@@ -47,7 +47,7 @@ const FlashSaleSection = () => (
       <div className="flex flex-col">
         <div className="flex items-center gap-4">
           <div className="w-5 h-10 bg-pink-600 rounded-sm"></div>
-          <span className="text-pink-600 font-bold text-sm">Today's</span>
+          <span className="text-pink-600 font-bold text-sm">Today&apos;s</span>
         </div>
         <h2 className="text-2xl font-bold mt-4">Flash Sales</h2>
       </div>
